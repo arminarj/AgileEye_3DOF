@@ -1,0 +1,3 @@
+<launch>
+    <node name="cam_view" pkg="rqt_image_view" type="rqt_image_view" />
+</launch>
